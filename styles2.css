@@ -1,0 +1,60 @@
+.aS{
+	font-size: 14px;
+    line-height: 25px;
+}
+ *{
+    line-height: 14px;
+     }
+
+
+a:link {
+    color: #0067b8
+}
+
+a:visited {
+    color: #0067b8
+}
+
+a:hover {
+    color: #666
+}
+
+a:focus {
+    color: #0067b8
+}
+
+a:active {
+    color: #999
+
+  }
+ #btn-task-form{
+-webkit-text-size-adjust: 100%;
+direction: ltr;
+box-sizing: border-box;
+font: inherit;
+margin: 0;
+font-family: inherit;
+font-size: inherit;
+-webkit-appearance: button;
+cursor: pointer;
+padding: 6px;
+position: relative;
+max-width: 100%;
+text-align: center;
+white-space: nowrap;
+overflow: hidden;
+vertical-align: middle;
+text-overflow: ellipsis;
+touch-action: manipulation;
+min-height: 32px;
+border: none;
+min-width: 108px;
+margin-top: 30px;
+margin-bottom: 0;
+color: #fff;
+border-color: #0067b8;
+background-color: #0067b8;
+display: block;
+width: 10%;
+}
+
